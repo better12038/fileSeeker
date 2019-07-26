@@ -1,0 +1,5 @@
+target/
+.idea/
+fileSeeker.iml
+fileSeeker.mv.db
+fileSeeker.trace.db
